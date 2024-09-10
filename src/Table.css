@@ -1,0 +1,13 @@
+  .tabOne table {width: 1000px;
+                margin: auto;
+                }
+
+  .tabOne {
+            text-align: center;
+            background-color: #F5F5FF;
+            height: 100vh;}              
+
+
+ .butnOne {width: 400px;
+           margin: auto; 
+           padding-top: 60px; }

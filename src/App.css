@@ -1,0 +1,20 @@
+h1 { color: blueviolet;
+  padding: 80px 0px 40px 0px;}
+
+.details {text-align:center;
+        background-color: #F5F5FF;
+        height: 100vh;}    
+
+.fill {width: 600px;
+    margin: auto;
+  font-size: larger;
+  padding: 40px 30px 40px 30px;
+  border: 2px solid;}
+
+.btn.btn-primary {background-color: blueviolet!important;}  
+
+.btn.btn-primary:hover{ background-color: #4B0082!important;} 
+
+.butnTwo {width: 500PX;
+          margin: auto;
+        padding-top: 50px;}

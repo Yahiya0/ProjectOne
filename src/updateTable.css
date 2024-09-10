@@ -1,0 +1,16 @@
+.detail {text-align: center;
+    background-color: #F5F5FF ;
+    padding: 40px;
+    height: 100vh;} 
+
+.fills {border: 2px solid;
+        padding: 20px 30px 20px 30px;
+        width: 600px;
+        margin-left: auto;
+        margin-right: auto;
+        font-size: larger;
+    }    
+           
+
+.detail h1 {color: blueviolet;
+    padding: 30px 0px 40px 0px;}        
